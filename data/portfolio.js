@@ -1,31 +1,31 @@
 export default [
     {
-        title: "Sitio 1",
-        imgUrl: "",
+        title: "Landing Page",
+        img: "../public/assets/landing.png",
         stack: ["HTML", "CSS"],
-        link: "",
+        link: "https://landing-page-one-rose.vercel.app",
     },
     {
-        title: "Sitio 2 CRUD",
-        imgUrl: "",
+        title: "Tablero CRUD",
+        img: "../public/assets/crud.png",
         stack: ["HTML", "CSS", "Javascript"],
         link: "https://tania-bobadilla.github.io/Ejercicio_CRUD/",
     },
     {
-        title: "Sitio 3 Dashboard",
-        imgUrl: "",
+        title: "Dashboard",
+        img: "../public/assets/dash.png",
         stack: ["HTML", "CSS", "Javascript"], 
         link: "https://tania-bobadilla.github.io/Dashboard/",
     },
     {
-        title: "Sitio 4 Restaurant",
-        imgUrl: "",
+        title: "Restaurante",
+        img: "../public/assets/res.png",
         stack: ["HTML", "CSS", "Javascript", "React"],
         link: "https://restaurante-jsz4.vercel.app",
     },
     {
-        title: "Sitio 5 Surf",
-        imgUrl: "",
+        title: "Ecommerce",
+        img: "../public/assets/aquaride.png",
         stack: ["HTML", "CSS", "Javascript", "React", "MongoDB"],
         link: "https://fabulous-genie-b3ac69.netlify.app",
     }
