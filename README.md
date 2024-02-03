@@ -6,10 +6,10 @@ Portafolio que reúne todos los proyectos realizados en el bootcamp, sección de
 
 # Tecnologias utilizadas
 
-HTML
-Tailwind CSS
-Javascript
-React
+- HTML
+- Tailwind CSS
+- Javascript
+- React
 
 
 
