@@ -1,7 +1,7 @@
 export default [
     {
         title: "Landing Page",
-        img: "../public/assets/landing.png",
+        img: "/assets/landing.png",
         stack: ["HTML", "CSS"],
         link: "https://landing-page-one-rose.vercel.app",
     },
