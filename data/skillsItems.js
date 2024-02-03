@@ -1,42 +1,42 @@
 export default [
     {
         name: "HTML",
-        img: "../public/assets/html.png",
+        img: "/assets/html.png",
     },
     {
         name: "CSS",
-        img: "../public/assets/css.png",
+        img: "/assets/css.png",
     },
     {
         name: "Javascript",
-        img: "../public/assets/javascript.png",
+        img: "/assets/javascript.png",
     },
     {
         name: "React",
-        img: "../public/assets/react.png",
+        img: "/assets/react.png",
     },
     {
         name: "MongoDB",
-        img: "../public/assets/mongo.png",
+        img: "/assets/mongo.png",
     },
     {
         name: "Tailwind CSS",
-        img: "../public/assets/tailwind.png",
+        img: "/assets/tailwind.png",
     },
     {
         name: "Bootstrap",
-        img: "../public/assets/bootstrap.png",
+        img: "/assets/bootstrap.png",
     },
     {
         name: "Node.js",
-        img: "../public/assets/node.png",
+        img: "/assets/node.png",
     },
     {
         name: "GitHub",
-        img: "../public/assets/git.png",
+        img: "/assets/git.png",
     },
     {
         name: "Firebase",
-        img: "../public/assets/firebase.png",
+        img: "/assets/firebase.png",
     }
 ]
